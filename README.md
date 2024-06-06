@@ -6,7 +6,7 @@
 </div>
 <h3 align="center">A passionate fullstack developer from Tamilnadu</h3>
 
-![Header](https://github.com/Lokhesh123/lokhesh/blob/main/LOKHESH.gif)
+![Header](https://github.com/Lokhesh123/gif/blob/76107d13d93349890b598999b87e2c8b9a19db27/LOKHESH.gif)
 
 
 <div align="center">
